@@ -44,8 +44,8 @@ A web-based application to manage vaccination records efficiently.
 ---
 
 ## 📫 Connect With Me  
-- 🌐 Portfolio: [Your Website](#)  
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/karan-vala-801b7329b/)  
+- 🌐 Portfolio: [My Portfolio Website](#)  
+- 💼 LinkedIn: [Karan Vala]([https://www.linkedin.com/in/karanvala8859/])  
 - 🐙 GitHub: [github.com/karanvala8859](https://github.com/karanvala8859)  
 
 ---
