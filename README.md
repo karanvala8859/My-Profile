@@ -46,7 +46,6 @@ A web-based application to manage vaccination records efficiently.
 ---
 
 ## 📫 Connect With Me  
-- 📞 Phone: +91 7779087967  
 - 📧 Email: karanvala8859@gmail.com
 - 💼 LinkedIn: [Karan Vala](https://www.linkedin.com/in/karanvala8859/)  
 
